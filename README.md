@@ -3,7 +3,8 @@
 GAVIOTA (Gestión Asistencial Vivienda On-line TuteladA) es una aplicación web destinada para optimizar la administración y seguimiento de las viviendas tuteladas. 
 ## Tegnologías utilizadas
 GAVIOTA sigue el modelo cliente-servidor.
-https://github.com/cristinagg30/GAVIOTA/blob/main/Tecnologias.png?raw=true
+[https://github.com/cristinagg30/GAVIOTA/blob/main/Tecnologias.png?raw=true](https://github.com/cristinagg30/GAVIOTA/raw/main/Tecnologias.png
+)
   **Parte del cliente:**
 - *HTML*: Estructura el contenido de la pagina web. EJ: formularios
 - *CSS*: Estilos de la web. Colores.
